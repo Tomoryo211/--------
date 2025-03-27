@@ -1,0 +1,16 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    background: #FFEBEB;
+    background: #FFEBEB;
+}
+.edit_btn{
+    color: #594E4A;
+    font-size: 16px;
+    border: 1px solid #FFD2D2;
+    border-radius: 20px;
+    padding: 10px;
+    background: #FFD2D2;
+    margin-top:10px;
+}
